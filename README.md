@@ -1,21 +1,21 @@
-# DermaAI Triage
+# SkinSenseAI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 
-> **A professional dermatology image triage and education platform powered by uncertainty-aware deep learning**
+> **A professional dermatology image and education platform powered by uncertainty-aware deep learning**
 
-DermaAI Triage is an **educational** AI-powered platform that provides skin condition risk assessment, triage suggestions, and evidence-based care guidance. It uses computer vision, uncertainty estimation, and active learning to improve over time—designed as a **research showcase project** demonstrating production-ready ML engineering.
+SkinSenseAI is an **educational** AI-powered platform that provides skin condition risk assessment, triage suggestions, evidence-based care guidance and continuous automatic self-improving. It uses computer vision, uncertainty estimation, and active learning to improve over time—designed as a **research showcase project** demonstrating production-ready ML engineering.
 
-![DermaAI Screenshot](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=630&fit=crop)
+![SkinSenseAI Screenshot](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=630&fit=crop)
 
 ---
 
 ## 🎯 What This Is (And Isn't)
 
 ### ✅ What It IS
-- **Educational triage tool** providing risk/urgency categories
+- **Educational SkinSense tool** providing risk/urgency categories
 - **Uncertainty-aware AI** that asks follow-up questions when confidence is low
 - **Safety-first design** with built-in rails for severe symptoms
 - **Active learning system** improving from user feedback
@@ -61,7 +61,7 @@ DermaAI Triage is an **educational** AI-powered platform that provides skin cond
 ## 🏗️ Architecture
 
 ```
-derma-ai-triage/
+SkinSense-ai/
 ├── frontend/           # React + TypeScript + Tailwind CSS
 │   ├── src/
 │   │   ├── components/   # Reusable UI components
@@ -370,7 +370,7 @@ The creators and contributors assume **no liability** for any medical decisions 
 
 ## 📧 Contact
 
-**Project Maintainer**: [Abdul halim]
+**Project Maintainer**: [Abdul Halim]
 - GitHub: [@halim-math](https://github.com/halim-math)
 - Email: abdul.halim@uni-goettingen.de
 
